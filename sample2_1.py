@@ -51,7 +51,7 @@ def plot(x, y):
 
 def main():
     test1 = Arm1()
-    test1.msgs(1.4 ,1.4 ,45 ,30)
+    test1.msgs(1.4 ,1.4 ,45 ,-30)
 
     a1=test1.x1
     a2=test1.x2
